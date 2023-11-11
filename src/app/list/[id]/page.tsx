@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 type Props = {
   params: {
@@ -14,7 +14,7 @@ type responseGetTypes = {
 };
 export async function generateStaticParams() {
   const lists: responseGetTypes = await fetch(
-    "http://localhost:5000/api/todo-list/types"
+    'http://localhost:5000/api/todo-list/types'
   ).then((data) => data.json());
   const params = lists.types.map((list: string) => {
     return { id: list };
