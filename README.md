@@ -42,10 +42,6 @@ You will see the main page where you can register or log in to your profile, and
 
 Next, you will be automatically taken to a page with your boards, you can create a board with beautiful pictures provided by the Splash service
 
-![todo-plans-1](https://github.com/DanilaBesk/todo-plans/assets/127431527/168deea1-c265-4159-8a59-68416091ec41)
-![todo-plans-2](https://github.com/DanilaBesk/todo-plans/assets/127431527/383c3a7b-a63b-4e96-83a0-e048e0dd1219)
-![todo-plans-3](https://github.com/DanilaBesk/todo-plans/assets/127431527/392e6ac4-4593-40c2-ba35-5787796aa1da)
-
 When you create a board, you will be moved to a page with a board where you can create your own sheets with cards. you can beautifully edit the placemarks of a board, sheet or card, you can also copy an entire sheet, delete it or add a card to it.
 
 When you add your cards, they can be moved among the sheet as well as among other sheets, and you can also change the order of the sheets themselves.
@@ -61,14 +57,22 @@ I made this project for myself to conduct business planning and in the future I 
 Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере, чтобы увидеть результат.
 
 Вы увидите главную страницу, на которой можно зарегистрироваться или войти в свой профиль, также есть возможность создавать организации с помощью Clerk.
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/1b12c548-fab0-4fb9-a670-49690e82ed7f)
 
-Далее вы попадете автоматически на страницу со своими досками, можно создать доску с красивыми картинками, которые предоставляет Splash сервис.
+Далее вы попадете автоматически на страницу со своими досками, можно создать доску с красивыми картинками, которые предоставляет Splash сервис, также будет проверка входных данных:
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/f000e75e-0bb7-484d-9c5b-330d3e374d35)
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/60ff3800-ddb4-44c6-b038-b26c323d0009)
 
 При создании доски вы будете перемещены на страницу с доской, где сможете создавать свои листы с карточками. можно красиво редактировать загаловки доски, листа или карточки, также можно скопировать целый лист, удалить его или добавить к нему карточку.
 
 Когда вы добавите свои карточки, их можно будет перемещать среди листа а также среди других листов, и можно также менять порядок самих листов.
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/b5ce45a8-3d1f-4bf8-ba76-6fe5f32d2f51)
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/a1e63f55-62fe-4b9e-8a19-02fae287fe6b)
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/e7c1ca0c-10ad-47c3-a09a-9f5d9e8852b8)
 
 В опции доски можно ее удалить и в таком случае вы попадете к себе на информационную страницу с досками.
+![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/9e7ac41f-a093-441e-bd24-e29c1ad8ac3a)
+
 
 На странице с настройкой организации можно будет настроить организацию, добавить к ней членов и установить права.
 
