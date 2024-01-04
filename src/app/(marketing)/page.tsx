@@ -45,7 +45,7 @@ const MarketingPage = () => {
         accomplish it all with Taskify
       </div>
       <Button className="mt-6" size="lg" asChild>
-        <Link href="/sign-up">Get Taskift for free</Link>
+        <Link href="/sign-up">Get Todo-Plans for free</Link>
       </Button>
     </div>
   );
