@@ -31,7 +31,7 @@ const MarketingPage = () => {
           todo-plans helps team move
         </h1>
         <div className="text-3xl md:text-6xl bg-gradient-to-r from-fuchsia-600 to-pink-600 text-white px-4 pt-3 pb-1 rounded-md w-fit">
-          work forward.
+          Planning Anything
         </div>
       </div>
       <div
@@ -42,7 +42,7 @@ const MarketingPage = () => {
       >
         Collaborate, manage projects, and reach new productivity peaks. From
         high rises to the home office, the way your team works is unique -
-        accomplish it all with Taskify
+        accomplish it all with Todo-plans
       </div>
       <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">Get Todo-Plans for free</Link>
