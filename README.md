@@ -57,22 +57,29 @@ I made this project for myself to conduct business planning and in the future I 
 Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере, чтобы увидеть результат.
 
 Вы увидите главную страницу, на которой можно зарегистрироваться или войти в свой профиль, также есть возможность создавать организации с помощью Clerk.
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/1b12c548-fab0-4fb9-a670-49690e82ed7f)
+<p>
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/1b12c548-fab0-4fb9-a670-49690e82ed7f" alt="todo-plans" width="500px">
+</p>
 
 Далее вы попадете автоматически на страницу со своими досками, можно создать доску с красивыми картинками, которые предоставляет Splash сервис, также будет проверка входных данных:
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/f000e75e-0bb7-484d-9c5b-330d3e374d35)
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/60ff3800-ddb4-44c6-b038-b26c323d0009)
+<p>
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/f000e75e-0bb7-484d-9c5b-330d3e374d35" alt="todo-plans" width="500px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/60ff3800-ddb4-44c6-b038-b26c323d0009" alt="todo-plans" width="200px">
+</p>
 
 При создании доски вы будете перемещены на страницу с доской, где сможете создавать свои листы с карточками. можно красиво редактировать загаловки доски, листа или карточки, также можно скопировать целый лист, удалить его или добавить к нему карточку.
 
 Когда вы добавите свои карточки, их можно будет перемещать среди листа а также среди других листов, и можно также менять порядок самих листов.
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/b5ce45a8-3d1f-4bf8-ba76-6fe5f32d2f51)
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/a1e63f55-62fe-4b9e-8a19-02fae287fe6b)
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/e7c1ca0c-10ad-47c3-a09a-9f5d9e8852b8)
+<p>
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/b5ce45a8-3d1f-4bf8-ba76-6fe5f32d2f51" alt="todo-plans" width="500px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/a1e63f55-62fe-4b9e-8a19-02fae287fe6b" alt="todo-plans" width="500px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/e7c1ca0c-10ad-47c3-a09a-9f5d9e8852b8" alt="todo-plans" width="500px">
+</p>
 
 В опции доски можно ее удалить и в таком случае вы попадете к себе на информационную страницу с досками.
-![image](https://github.com/DanilaBesk/todo-plans/assets/127431527/9e7ac41f-a093-441e-bd24-e29c1ad8ac3a)
-
+<p>
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/9e7ac41f-a093-441e-bd24-e29c1ad8ac3a" alt="todo-plans" width="500px">
+</p>
 
 На странице с настройкой организации можно будет настроить организацию, добавить к ней членов и установить права.
 
