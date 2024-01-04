@@ -71,14 +71,14 @@ I made this project for myself to conduct business planning and in the future I 
 
 Когда вы добавите свои карточки, их можно будет перемещать среди листа а также среди других листов, и можно также менять порядок самих листов.
 <p>
-  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/b5ce45a8-3d1f-4bf8-ba76-6fe5f32d2f51" alt="todo-plans" width="500px">
-  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/a1e63f55-62fe-4b9e-8a19-02fae287fe6b" alt="todo-plans" width="500px">
-  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/e7c1ca0c-10ad-47c3-a09a-9f5d9e8852b8" alt="todo-plans" width="500px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/b5ce45a8-3d1f-4bf8-ba76-6fe5f32d2f51" alt="todo-plans" width="400px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/a1e63f55-62fe-4b9e-8a19-02fae287fe6b" alt="todo-plans" width="400px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/e7c1ca0c-10ad-47c3-a09a-9f5d9e8852b8" alt="todo-plans" width="400px">
 </p>
 
 В опции доски можно ее удалить и в таком случае вы попадете к себе на информационную страницу с досками.
 <p>
-  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/9e7ac41f-a093-441e-bd24-e29c1ad8ac3a" alt="todo-plans" width="500px">
+  <img src="https://github.com/DanilaBesk/todo-plans/assets/127431527/9e7ac41f-a093-441e-bd24-e29c1ad8ac3a" alt="todo-plans" width="260px">
 </p>
 
 На странице с настройкой организации можно будет настроить организацию, добавить к ней членов и установить права.
