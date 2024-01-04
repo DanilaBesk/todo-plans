@@ -18,6 +18,10 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      backdropBlur: {
+        xs: '2px',
+        xxs: '1px',
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
@@ -74,6 +78,6 @@ const config: Config = {
       },
     },
   },
-  plugins: [animate],
+  plugins: [animate, require('tailwind-scrollbar-hide')],
 };
 export default config;
