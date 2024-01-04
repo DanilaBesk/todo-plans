@@ -42,6 +42,10 @@ You will see the main page where you can register or log in to your profile, and
 
 Next, you will be automatically taken to a page with your boards, you can create a board with beautiful pictures provided by the Splash service
 
+![todo-plans-1](https://github.com/DanilaBesk/todo-plans/assets/127431527/168deea1-c265-4159-8a59-68416091ec41)
+![todo-plans-2](https://github.com/DanilaBesk/todo-plans/assets/127431527/383c3a7b-a63b-4e96-83a0-e048e0dd1219)
+![todo-plans-3](https://github.com/DanilaBesk/todo-plans/assets/127431527/392e6ac4-4593-40c2-ba35-5787796aa1da)
+
 When you create a board, you will be moved to a page with a board where you can create your own sheets with cards. you can beautifully edit the placemarks of a board, sheet or card, you can also copy an entire sheet, delete it or add a card to it.
 
 When you add your cards, they can be moved among the sheet as well as among other sheets, and you can also change the order of the sheets themselves.
